@@ -28,8 +28,8 @@ Aplicação web feita com **React.js** (via **Vite**) que consome a API pública
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/rick-and-morty-app.git
-cd rick-and-morty-app
+git clone https://github.com/edurojastech/rickandmorty-web.git
+cd rickandmorty-web
 
 # Instale as dependências
 npm install
